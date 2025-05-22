@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @JustALicht
+/src/backend/database.py      @JustALicht
+/src/backend/routers/auth.py  @JustALicht
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @JustALicht
